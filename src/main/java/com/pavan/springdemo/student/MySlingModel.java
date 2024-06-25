@@ -1,6 +1,6 @@
 package com.pavan.springdemo.student;
 
-public class TestSlingModel {
+public class MySlingModel {
 
     private String name;
 
