@@ -27,7 +27,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>com.adobe.aem</groupId>
+            <artifactId>uber-jar</artifactId>
+            <version>6.5.4</version>
+        </dependency>
+    </dependencies>
 
 	<build>
 		<plugins>
